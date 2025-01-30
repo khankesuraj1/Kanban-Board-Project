@@ -40,3 +40,4 @@ Implements interactivity and logic:
 Event Listeners: Handles user actions like adding, removing, filtering, and editing tasks.
 LocalStorage Management: Saves and retrieves tasks to/from LocalStorage for data persistence.
 Dynamic DOM Manipulation: Creates task elements dynamically and updates them based on user input.
+ suraj
